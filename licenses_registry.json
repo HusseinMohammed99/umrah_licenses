@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:33:40.150Z",
+  "updatedAt": "2026-10-10T09:54:05.269Z",
   "issuer": "Umrah Management Systems Corp. (Cloud License Authority)",
   "accounts": [
     {
@@ -312,14 +312,14 @@
       "accountId": "ACC-1002",
       "companyName": "شركة النور للسياحة الدينية",
       "customerName": "محمد سالم التميمي",
-      "licenseType": "TRIAL",
-      "durationDays": 1,
+      "licenseType": "YEARLY",
+      "durationDays": 365,
       "maxDevices": 1,
       "deviceFingerprint": "صسض",
       "status": "ACTIVE",
       "creationDate": "2026-10-08T10:31:27.374Z",
-      "expirationDate": "2026-10-09T10:31:27.374Z",
-      "signatureToken": "64415a441b1b70a570793e3a8a0869f93722e339f26b13757b2fea73bbda8876",
+      "expirationDate": "2027-10-08T10:31:27.374Z",
+      "signatureToken": "30976881ef19540c0eb0a8c62625f5455a3587e02d3b7c4f03ec2266f1b79af8",
       "features": [
         "FULL_SUITE",
         "OFFLINE_MODE",
