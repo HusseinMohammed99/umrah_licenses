@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T10:48:48.088Z",
+  "updatedAt": "2026-10-10T10:49:23.967Z",
   "issuer": "Umrah Management Systems Corp. (Cloud License Authority)",
   "accounts": [
     {
@@ -239,11 +239,11 @@
       "licenseType": "TRIAL",
       "durationDays": 1,
       "maxDevices": 1,
-      "deviceFingerprint": null,
+      "deviceFingerprint": "SHA256: D69D-55AA-387B-50A8 (WINDOWS-DESKTOP)",
       "status": "ACTIVE",
       "creationDate": "2026-10-10T10:48:48.086Z",
       "expirationDate": "2026-10-11T10:48:48.086Z",
-      "signatureToken": "d2718f7c2b66fc9da59b1504566d9067ab4b59ce4fbd3746d85d9232831af26a",
+      "signatureToken": "a866c7f81b885edb240baa019dcc9cadbfea36f11c2ef6fbfe5ce7ea6e1c3cf2",
       "features": [
         "FULL_SUITE",
         "OFFLINE_MODE",
