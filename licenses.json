@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T11:17:15.699Z",
+  "updatedAt": "2026-10-10T11:17:28.184Z",
   "issuer": "Umrah Management Systems Corp. (Cloud License Authority)",
   "accounts": [
     {
@@ -282,6 +282,26 @@
     }
   ],
   "licenses": [
+    {
+      "licenseKey": "UMRAH-LIFETI-379F27-2CA1B9-1218",
+      "accountId": "ACC-1012",
+      "companyName": "الايوان للحج والعمرة",
+      "customerName": "محمود",
+      "licenseType": "LIFETIME",
+      "durationDays": 36500,
+      "maxDevices": 1,
+      "deviceFingerprint": null,
+      "status": "ACTIVE",
+      "creationDate": "2026-10-10T11:17:28.182Z",
+      "expirationDate": "2126-09-16T11:17:28.182Z",
+      "signatureToken": "54c1e08bcb141be9eb80e55c787e633faf2d8d1744fbb7247ba7ddf401d29186",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
     {
       "licenseKey": "UMRAH-TRIAL-346356-F6EE54-FD54",
       "accountId": "ACC-1011",
