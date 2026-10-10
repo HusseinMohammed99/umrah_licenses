@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-10-10T09:54:05.269Z",
+  "updatedAt": "2026-10-10T10:42:00.159Z",
   "issuer": "Umrah Management Systems Corp. (Cloud License Authority)",
   "accounts": [
+    {
+      "id": "ACC-1009",
+      "dbName": "umrah_acc_1009.db",
+      "companyName": "test",
+      "ownerName": "test",
+      "phone": "",
+      "email": "",
+      "country": "العراق",
+      "city": "",
+      "notes": "",
+      "createdAt": "2026-10-10T10:37:07.455Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "test",
+          "password": "admin123",
+          "fullName": "test",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-10-10T10:37:07.455Z"
+        }
+      ]
+    },
     {
       "id": "ACC-1008",
       "dbName": "umrah_acc_1008.db",
@@ -188,6 +210,46 @@
   ],
   "licenses": [
     {
+      "licenseKey": "UMRAH-TRIAL-48CDEC-6305F4-1A18",
+      "accountId": "ACC-1009",
+      "companyName": "test",
+      "customerName": "test",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": "SHA256: D69D-55AA-387B-50A8 (WINDOWS-DESKTOP)",
+      "status": "ACTIVE",
+      "creationDate": "2026-10-10T10:37:27.973Z",
+      "expirationDate": "2026-10-11T10:37:27.973Z",
+      "signatureToken": "7ef579590d19f091703757546d3e5fb68dc54aab0d1869f7632caf822352d43d",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-316757-B5C1ED-0869",
+      "accountId": "ACC-1009",
+      "companyName": "test",
+      "customerName": "test",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": null,
+      "status": "ACTIVE",
+      "creationDate": "2026-10-10T10:37:14.741Z",
+      "expirationDate": "2026-10-11T10:37:14.741Z",
+      "signatureToken": "7ec920f2657122ea8e9aee8c43ae04e1431180e2f7475aa19c0556d025e065f9",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
       "licenseKey": "UMRAH-TRIAL-989967-544B9E-7FBD",
       "accountId": "ACC-1008",
       "companyName": "محمود",
@@ -255,11 +317,11 @@
       "licenseType": "YEARLY",
       "durationDays": 365,
       "maxDevices": 1,
-      "deviceFingerprint": null,
+      "deviceFingerprint": "SHA256: D69D-55AA-387B-50A8 (WINDOWS-DESKTOP)",
       "status": "ACTIVE",
       "creationDate": "2026-10-10T06:26:58.548Z",
       "expirationDate": "2027-10-10T06:26:58.548Z",
-      "signatureToken": "29049236eaf0c11c62beb108d5efdba9c563ff8e25bca27c2f08ca18142f5864",
+      "signatureToken": "91b390147223dbcea32d39175776b815b42dd05d53ddddb6d7334f3672885aab",
       "features": [
         "FULL_SUITE",
         "OFFLINE_MODE",
