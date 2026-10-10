@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T11:17:28.184Z",
+  "updatedAt": "2026-10-10T13:02:38.737Z",
   "issuer": "Umrah Management Systems Corp. (Cloud License Authority)",
   "accounts": [
     {
@@ -311,10 +311,10 @@
       "durationDays": 1,
       "maxDevices": 1,
       "deviceFingerprint": null,
-      "status": "ACTIVE",
+      "status": "REVOKED",
       "creationDate": "2026-10-10T11:08:14.782Z",
       "expirationDate": "2026-10-11T11:08:14.782Z",
-      "signatureToken": "e0c60b9d512e531f426d8d6ec48b8a5dd4cd907148bdacae309cb326d6051358",
+      "signatureToken": "8c5cced0a8b38901bf2af69506b73015ea24fc6d2970a772f1246cafa8ecfaff",
       "features": [
         "FULL_SUITE",
         "OFFLINE_MODE",
@@ -335,26 +335,6 @@
       "creationDate": "2026-10-10T11:06:54.028Z",
       "expirationDate": "2026-10-11T11:06:54.028Z",
       "signatureToken": "4a51aa671db2dc45daecb2e4fab2ee55a88c3b171a03a7f58239708f48893633",
-      "features": [
-        "FULL_SUITE",
-        "OFFLINE_MODE",
-        "BACKUP_RESTORE",
-        "REPORTS"
-      ]
-    },
-    {
-      "licenseKey": "UMRAH-TRIAL-16F257-62102B-53D5",
-      "accountId": "ACC-1010",
-      "companyName": "test2",
-      "customerName": "test2",
-      "licenseType": "TRIAL",
-      "durationDays": 1,
-      "maxDevices": 1,
-      "deviceFingerprint": "SHA256: D69D-55AA-387B-50A8 (WINDOWS-DESKTOP)",
-      "status": "ACTIVE",
-      "creationDate": "2026-10-10T10:48:48.086Z",
-      "expirationDate": "2026-10-11T10:48:48.086Z",
-      "signatureToken": "a866c7f81b885edb240baa019dcc9cadbfea36f11c2ef6fbfe5ce7ea6e1c3cf2",
       "features": [
         "FULL_SUITE",
         "OFFLINE_MODE",

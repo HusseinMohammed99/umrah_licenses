@@ -1,7 +1,587 @@
 {
-  "updatedAt": "2026-10-10T11:17:28.184Z",
+  "updatedAt": "2026-10-10T13:02:38.737Z",
   "issuer": "Umrah Management Systems Corp. (Cloud License Authority)",
   "accounts": [
-  
+    {
+      "id": "ACC-1012",
+      "dbName": "umrah_acc_1012.db",
+      "companyName": "الايوان للحج والعمرة",
+      "ownerName": "محمود",
+      "phone": "+9647736847528",
+      "email": "",
+      "country": "العراق",
+      "city": "",
+      "notes": "",
+      "createdAt": "2026-10-10T11:17:15.699Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "admin",
+          "password": "admin123",
+          "fullName": "محمود",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-10-10T11:17:15.699Z"
+        }
+      ]
+    },
+    {
+      "id": "ACC-1011",
+      "dbName": "umrah_acc_1011.db",
+      "companyName": "test3",
+      "ownerName": "test3",
+      "phone": "",
+      "email": "",
+      "country": "العراق",
+      "city": "",
+      "notes": "",
+      "createdAt": "2026-10-10T11:06:46.991Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "test3",
+          "password": "admin123",
+          "fullName": "test3",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-10-10T11:06:46.991Z"
+        },
+        {
+          "username": "admin2",
+          "password": "admin2",
+          "fullName": "admin2",
+          "roleCode": "EMPLOYEE",
+          "createdAt": "2026-10-10T11:11:12.558Z"
+        }
+      ]
+    },
+    {
+      "id": "ACC-1010",
+      "dbName": "umrah_acc_1010.db",
+      "companyName": "test2",
+      "ownerName": "test2",
+      "phone": "",
+      "email": "",
+      "country": "العراق",
+      "city": "",
+      "notes": "",
+      "createdAt": "2026-10-10T10:48:38.594Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "test2",
+          "password": "admin123",
+          "fullName": "test2",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-10-10T10:48:38.594Z"
+        }
+      ]
+    },
+    {
+      "id": "ACC-1009",
+      "dbName": "umrah_acc_1009.db",
+      "companyName": "test",
+      "ownerName": "test",
+      "phone": "",
+      "email": "",
+      "country": "العراق",
+      "city": "",
+      "notes": "",
+      "createdAt": "2026-10-10T10:37:07.455Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "test",
+          "password": "admin123",
+          "fullName": "test",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-10-10T10:37:07.455Z"
+        }
+      ]
+    },
+    {
+      "id": "ACC-1008",
+      "dbName": "umrah_acc_1008.db",
+      "companyName": "محمود",
+      "ownerName": "محمود",
+      "phone": "7736847528",
+      "email": "almadena1@yahoo.com",
+      "country": "العراق",
+      "city": "العراق",
+      "notes": "",
+      "createdAt": "2026-10-10T09:15:19.478Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "admin123",
+          "password": "admin123",
+          "fullName": "محمود",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-10-10T09:15:19.478Z"
+        }
+      ]
+    },
+    {
+      "id": "ACC-1007",
+      "dbName": "umrah_acc_1007.db",
+      "companyName": "werwerw",
+      "ownerName": "rwerwer",
+      "phone": "7736847528",
+      "email": "almadena1@yahoo.com",
+      "country": "العراق",
+      "city": "العراق",
+      "notes": "",
+      "createdAt": "2026-10-10T06:44:45.955Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "admin123",
+          "password": "admin123",
+          "fullName": "rwerwer",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-10-10T06:44:45.955Z"
+        }
+      ]
+    },
+    {
+      "id": "ACC-1006",
+      "dbName": "umrah_acc_1006.db",
+      "companyName": "Hussein mohammed",
+      "ownerName": "klk",
+      "phone": "7736847528",
+      "email": "almadena1@yahoo.com",
+      "country": "العراق",
+      "city": "العراق",
+      "notes": "",
+      "createdAt": "2026-10-10T06:39:25.993Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "admin123",
+          "password": "admin123",
+          "fullName": "klk",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-10-10T06:39:25.993Z"
+        }
+      ]
+    },
+    {
+      "id": "ACC-1005",
+      "dbName": "umrah_acc_1005.db",
+      "companyName": "Hussein mohammed",
+      "ownerName": "klk",
+      "phone": "7736847528",
+      "email": "almadena1@yahoo.com",
+      "country": "العراق",
+      "city": "العراق",
+      "notes": "",
+      "createdAt": "2026-10-10T06:26:52.819Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "123",
+          "password": "admin123",
+          "fullName": "klk",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-10-10T06:26:52.820Z"
+        }
+      ]
+    },
+    {
+      "id": "ACC-1004",
+      "companyName": "3",
+      "ownerName": "6",
+      "phone": "+9647819218161",
+      "email": "king.of.silence192@gmail.com",
+      "country": "العراق",
+      "city": "العراق",
+      "notes": "",
+      "createdAt": "2026-10-08T14:39:33.044Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "admin5",
+          "password": "admin123",
+          "fullName": "6",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-10-08T14:39:33.044Z"
+        }
+      ],
+      "dbName": "umrah_acc_1004.db"
+    },
+    {
+      "id": "ACC-1003",
+      "companyName": "ش",
+      "ownerName": "ش",
+      "phone": "+9647819218161",
+      "email": "king.of.silence192@gmail.com",
+      "country": "العراق",
+      "city": "العراق",
+      "notes": "",
+      "createdAt": "2026-10-08T14:29:28.011Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "ش",
+          "password": "password123",
+          "fullName": "ش",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-10-08T14:29:28.011Z"
+        }
+      ],
+      "dbName": "umrah_acc_1003.db"
+    },
+    {
+      "id": "ACC-1001",
+      "companyName": "شركة الأمل لخدمات الحج والعمرة",
+      "ownerName": "أحمد محمود العباسي",
+      "phone": "+964 770 123 4567",
+      "email": "alamal@umrah-agency.com",
+      "country": "العراق",
+      "city": "بغداد",
+      "notes": "حساب رسمي معتمد - فرع الكرادة",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "admin",
+          "password": "password123",
+          "fullName": "أحمد محمود العباسي",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-01-01T00:00:00.000Z"
+        },
+        {
+          "username": "alamal_ops",
+          "password": "password123",
+          "fullName": "سامر العباسي (مدير عمليات)",
+          "roleCode": "MANAGER",
+          "createdAt": "2026-01-05T00:00:00.000Z"
+        }
+      ],
+      "dbName": "umrah_acc_1001.db"
+    },
+    {
+      "id": "ACC-1002",
+      "companyName": "شركة النور للسياحة الدينية",
+      "ownerName": "محمد سالم التميمي",
+      "phone": "+964 780 987 6543",
+      "email": "alnoor@umrah-travel.com",
+      "country": "العراق",
+      "city": "النجف الأشرف",
+      "notes": "حساب وكيل معتمد - 3 فروع",
+      "createdAt": "2026-02-15T00:00:00.000Z",
+      "status": "ACTIVE",
+      "users": [
+        {
+          "username": "alnoor_admin",
+          "password": "password123",
+          "fullName": "محمد سالم التميمي",
+          "roleCode": "ADMIN",
+          "createdAt": "2026-02-15T00:00:00.000Z"
+        }
+      ],
+      "dbName": "umrah_acc_1002.db"
+    }
+  ],
+  "licenses": [
+    {
+      "licenseKey": "UMRAH-LIFETI-379F27-2CA1B9-1218",
+      "accountId": "ACC-1012",
+      "companyName": "الايوان للحج والعمرة",
+      "customerName": "محمود",
+      "licenseType": "LIFETIME",
+      "durationDays": 36500,
+      "maxDevices": 1,
+      "deviceFingerprint": null,
+      "status": "ACTIVE",
+      "creationDate": "2026-10-10T11:17:28.182Z",
+      "expirationDate": "2126-09-16T11:17:28.182Z",
+      "signatureToken": "54c1e08bcb141be9eb80e55c787e633faf2d8d1744fbb7247ba7ddf401d29186",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-346356-F6EE54-FD54",
+      "accountId": "ACC-1011",
+      "companyName": "test3",
+      "customerName": "test3",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": null,
+      "status": "REVOKED",
+      "creationDate": "2026-10-10T11:08:14.782Z",
+      "expirationDate": "2026-10-11T11:08:14.782Z",
+      "signatureToken": "8c5cced0a8b38901bf2af69506b73015ea24fc6d2970a772f1246cafa8ecfaff",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-9110AD-FA124E-FFE2",
+      "accountId": "ACC-1011",
+      "companyName": "test3",
+      "customerName": "test3",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": "SHA256: D69D-55AA-387B-50A8 (WINDOWS-DESKTOP)",
+      "status": "ACTIVE",
+      "creationDate": "2026-10-10T11:06:54.028Z",
+      "expirationDate": "2026-10-11T11:06:54.028Z",
+      "signatureToken": "4a51aa671db2dc45daecb2e4fab2ee55a88c3b171a03a7f58239708f48893633",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-48CDEC-6305F4-1A18",
+      "accountId": "ACC-1009",
+      "companyName": "test",
+      "customerName": "test",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": "SHA256: D69D-55AA-387B-50A8 (WINDOWS-DESKTOP)",
+      "status": "ACTIVE",
+      "creationDate": "2026-10-10T10:37:27.973Z",
+      "expirationDate": "2026-10-11T10:37:27.973Z",
+      "signatureToken": "7ef579590d19f091703757546d3e5fb68dc54aab0d1869f7632caf822352d43d",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-316757-B5C1ED-0869",
+      "accountId": "ACC-1009",
+      "companyName": "test",
+      "customerName": "test",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": null,
+      "status": "ACTIVE",
+      "creationDate": "2026-10-10T10:37:14.741Z",
+      "expirationDate": "2026-10-11T10:37:14.741Z",
+      "signatureToken": "7ec920f2657122ea8e9aee8c43ae04e1431180e2f7475aa19c0556d025e065f9",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-989967-544B9E-7FBD",
+      "accountId": "ACC-1008",
+      "companyName": "محمود",
+      "customerName": "محمود",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": null,
+      "status": "ACTIVE",
+      "creationDate": "2026-10-10T09:15:25.629Z",
+      "expirationDate": "2026-10-11T09:15:25.629Z",
+      "signatureToken": "04f1e69917f8df9326862fc71316c2029c522ccd7193e4be63bf84674a953b79",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-C0AA34-DFE490-69BF",
+      "accountId": "ACC-1007",
+      "companyName": "werwerw",
+      "customerName": "rwerwer",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": "SHA256: D69D-55AA-387B-50A8 (WINDOWS-DESKTOP)",
+      "status": "ACTIVE",
+      "creationDate": "2026-10-10T06:44:52.932Z",
+      "expirationDate": "2026-10-11T06:44:52.932Z",
+      "signatureToken": "9625483abe88522b68c1e57c9c43f53a0c6411512217ccce6fca87b271e2b183",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-1BD0A8-5B4CBF-F104",
+      "accountId": "ACC-1005",
+      "companyName": "Hussein mohammed",
+      "customerName": "klk",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": null,
+      "status": "ACTIVE",
+      "creationDate": "2026-10-10T06:39:44.259Z",
+      "expirationDate": "2026-10-11T06:39:44.259Z",
+      "signatureToken": "08f1787a9eee1a2a252c68615c4fb4b2b386a554795ed27cf6e012e1288b60c9",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-YEARLY-B818D6-97FCE7-4628",
+      "accountId": "ACC-1005",
+      "companyName": "Hussein mohammed",
+      "customerName": "klk",
+      "licenseType": "YEARLY",
+      "durationDays": 365,
+      "maxDevices": 1,
+      "deviceFingerprint": "SHA256: D69D-55AA-387B-50A8 (WINDOWS-DESKTOP)",
+      "status": "ACTIVE",
+      "creationDate": "2026-10-10T06:26:58.548Z",
+      "expirationDate": "2027-10-10T06:26:58.548Z",
+      "signatureToken": "91b390147223dbcea32d39175776b815b42dd05d53ddddb6d7334f3672885aab",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-FA6AFC-C053B7-E244",
+      "accountId": "ACC-1004",
+      "companyName": "3",
+      "customerName": "6",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": "SHA256: D69D-55AA-387B-50A8 (WINDOWS-DESKTOP)",
+      "status": "REVOKED",
+      "creationDate": "2026-10-08T14:39:42.078Z",
+      "expirationDate": "2026-10-09T14:39:42.078Z",
+      "signatureToken": "d7a27699a74b62172049d1282940aca0bd3f8e8a655585c66462dcc1c2559d85",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-204296-2ED436-DB4E",
+      "accountId": "ACC-1003",
+      "companyName": "ش",
+      "customerName": "ش",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": null,
+      "status": "ACTIVE",
+      "creationDate": "2026-10-08T14:29:45.948Z",
+      "expirationDate": "2026-10-09T14:29:45.948Z",
+      "signatureToken": "535852c4835f73863c05621323b759f95f6d2acb7368856e180723c282f25d65",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-31A392-F310F9-D5C2",
+      "accountId": "ACC-1002",
+      "companyName": "شركة النور للسياحة الدينية",
+      "customerName": "محمد سالم التميمي",
+      "licenseType": "YEARLY",
+      "durationDays": 365,
+      "maxDevices": 1,
+      "deviceFingerprint": "صسض",
+      "status": "ACTIVE",
+      "creationDate": "2026-10-08T10:31:27.374Z",
+      "expirationDate": "2027-10-08T10:31:27.374Z",
+      "signatureToken": "30976881ef19540c0eb0a8c62625f5455a3587e02d3b7c4f03ec2266f1b79af8",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-8F5BD6-F9A2FB-2C04",
+      "accountId": "ACC-1001",
+      "companyName": "شركة الأمل لخدمات الحج والعمرة",
+      "customerName": "أحمد محمود العباسي",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": null,
+      "status": "ACTIVE",
+      "creationDate": "2026-10-08T10:30:19.548Z",
+      "expirationDate": "2026-10-09T10:30:19.548Z",
+      "signatureToken": "ca9a38bc86bef2b3a223a49a6e68b3baa31bcf515a6eecf7b9d3204ef58477b4",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-TRIAL-493FBC-F37280-E112",
+      "accountId": "ACC-1001",
+      "companyName": "شركة الأمل لخدمات الحج والعمرة",
+      "customerName": "أحمد محمود العباسي",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": null,
+      "status": "REVOKED",
+      "creationDate": "2026-10-08T10:10:36.085Z",
+      "expirationDate": "2026-10-09T10:10:36.085Z",
+      "signatureToken": "90d38bb0e1daf325b157a42d47eedfa6952e31fc64a9ebf90ba2d203c9221f39",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
+    {
+      "licenseKey": "UMRAH-COMMERCIAL-2026-X99B-84A1",
+      "accountId": "ACC-1001",
+      "companyName": "شركة الأمل لخدمات الحج والعمرة",
+      "customerName": "أحمد محمود العباسي",
+      "licenseType": "YEARLY",
+      "durationDays": 365,
+      "maxDevices": 3,
+      "deviceFingerprint": "SHA256: 8F4A-E910-CC31-0012-77BA (MB+CPU+DISK)",
+      "status": "ACTIVE",
+      "creationDate": "2026-01-01T00:00:00.000Z",
+      "expirationDate": "2027-01-01T00:00:00.000Z",
+      "signatureToken": "0e2e557ae60598c6fb604c160fc338cca227592fe78a124bf37f55073ff2ab64",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "MULTI_BRANCH",
+        "AUTO_BACKUP",
+        "REPORTS"
+      ]
+    }
   ]
 }
