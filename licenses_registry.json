@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T11:06:54.029Z",
+  "updatedAt": "2026-10-10T11:08:14.782Z",
   "issuer": "Umrah Management Systems Corp. (Cloud License Authority)",
   "accounts": [
     {
@@ -253,6 +253,26 @@
     }
   ],
   "licenses": [
+    {
+      "licenseKey": "UMRAH-TRIAL-346356-F6EE54-FD54",
+      "accountId": "ACC-1011",
+      "companyName": "test3",
+      "customerName": "test3",
+      "licenseType": "TRIAL",
+      "durationDays": 1,
+      "maxDevices": 1,
+      "deviceFingerprint": null,
+      "status": "ACTIVE",
+      "creationDate": "2026-10-10T11:08:14.782Z",
+      "expirationDate": "2026-10-11T11:08:14.782Z",
+      "signatureToken": "e0c60b9d512e531f426d8d6ec48b8a5dd4cd907148bdacae309cb326d6051358",
+      "features": [
+        "FULL_SUITE",
+        "OFFLINE_MODE",
+        "BACKUP_RESTORE",
+        "REPORTS"
+      ]
+    },
     {
       "licenseKey": "UMRAH-TRIAL-9110AD-FA124E-FFE2",
       "accountId": "ACC-1011",
